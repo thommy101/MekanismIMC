@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mekanismimc",
+  "name": "Mekanism IMC example",
+  "description": "Example mod for Mekanism IMC messages.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Thommy101"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
